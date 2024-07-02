@@ -1,2 +1,2 @@
 # first-repo-from-terraform
-My first resouce from my laptop
+My first resouce from my laptop, created manually in github
